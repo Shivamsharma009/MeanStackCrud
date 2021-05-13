@@ -1,0 +1,20 @@
+{
+  "name": "MeanStackCrud",
+  "version": "1.0.0",
+  "description": "node\r  express\r  mongodb\r  mongoose\r  webpack\r  sass\r  angular\r  heroku",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shivamsharma009/MeanStackCrud.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shivamsharma009/MeanStackCrud/issues"
+  },
+  "homepage": "https://github.com/Shivamsharma009/MeanStackCrud#readme"
+}
